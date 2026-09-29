@@ -1,0 +1,3 @@
+ let configuracoes = {
+    tema: "dark"
+ }

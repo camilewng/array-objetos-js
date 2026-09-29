@@ -1,0 +1,3 @@
+let pet = {
+    nome: "Rex"
+}

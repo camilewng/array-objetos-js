@@ -1,0 +1,3 @@
+let produto = {
+    nome:"Notebook"
+}

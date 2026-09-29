@@ -1,0 +1,4 @@
+let usuario = {
+    nome: "Carol"
+    
+}

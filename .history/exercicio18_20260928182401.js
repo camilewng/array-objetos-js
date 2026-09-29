@@ -1,0 +1,1 @@
+hobbies: ["Desenhar", "Cozinhar", "Jogar"]

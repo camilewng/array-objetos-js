@@ -1,0 +1,6 @@
+let contaBancaria = {
+   titular: ""
+   saldo:
+   
+   
+}

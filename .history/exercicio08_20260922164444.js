@@ -1,0 +1,21 @@
+let numeros = [18, 28, 7, 9, 24, 56, 88, 93, 75];
+
+function ordenarNumeros(arr){
+
+    for (let i = 0; i < arr.length; i++){
+
+        for (let j = 0; j < arr.length - 1; j++){
+
+            if(arr[j] > arr[j + 1]){
+                let aux = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = aux;
+            }
+        }
+    }
+
+    return arr;
+}
+
+console.log("Array definida: ", numeros);
+console.log("Array ordenada: ", ordenarNumeros(numeros));

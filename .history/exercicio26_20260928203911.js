@@ -1,0 +1,3 @@
+let aluno = {
+    nome: "Jorge"
+}
