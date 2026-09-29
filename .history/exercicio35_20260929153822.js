@@ -1,0 +1,3 @@
+function Guerreiro(nome, vida){
+    
+}

@@ -1,0 +1,4 @@
+let livro = {
+    titulo: "1984",
+    autor: ""
+}
